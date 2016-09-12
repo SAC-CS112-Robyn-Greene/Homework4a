@@ -49,3 +49,5 @@ public class Homework4a {
     }
     
 }
+
+// Good job.  Thanks for reading ahead.
